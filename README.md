@@ -26,11 +26,16 @@ Mi experiencia en IPCHILE fortaleció mi habilidad para ofrecer soporte técnico
   </p>
 <br>
 <div>
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrijeldes&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
+  ---
+⚙️ &nbsp;GitHub Analytics
+  ---
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rodrijeldes&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rodrijeldes&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
-  <span><img align="center" width="260px" height="158px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrijeldes&theme=highcontrast&layout=compact&langs_count=10" /></span>
-</div>
 
 <h2 >Tecnologías y Herramientas conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
