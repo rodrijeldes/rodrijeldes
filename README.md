@@ -1,8 +1,15 @@
+<!-- RAINBOW LINE TOP -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+<!-- GIF HEADER -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
+
 <h1 align="center">Hola 👋  soy Rodrigo Jeldes  </h1> 
 
 <p align="left">
 <a href="https://www.linkedin.com/in/rodrigo-esteban-jeldes-cisterna-695a49153/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
 <a href = "mailto:rodrijeldes@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rodrijeldes&label=Profile%20views&color=0e75b6&style=flat" alt="rodrijeldes" /> </p>
 
 
   </p>
