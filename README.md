@@ -44,7 +44,7 @@ Mi experiencia en IPCHILE fortaleció mi habilidad para ofrecer soporte técnico
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb,firebase"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
@@ -64,7 +64,7 @@ Mi experiencia en IPCHILE fortaleció mi habilidad para ofrecer soporte técnico
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=bash,powershell,firebase,postman,virtualbox"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=bash,powershell,postman,virtualbox"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
