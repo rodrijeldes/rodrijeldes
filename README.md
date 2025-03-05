@@ -26,7 +26,9 @@ Mi experiencia en IPCHILE fortaleció mi habilidad para ofrecer soporte técnico
   </p>
 <br>
 <div>
-  <span><img align="center" width="400px" height="158px" src="https://github-readme-stats.vercel.app/api?username=rodrijeldes&theme=highcontrast&show_icons=true" /></span>
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrijeldes&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
+
   <span><img align="center" width="260px" height="158px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrijeldes&theme=highcontrast&layout=compact&langs_count=10" /></span>
 </div>
 
